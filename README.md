@@ -9,7 +9,7 @@ Users should prepare for this workshop by installing the Jupyter Notebook using 
 
 #### Data
 
-The data package for the workshop can be downloaded from
+The data package for the workshop can be downloaded from:
 
-The project data folder contains the following datasets:
+https://github.com/kimdurante/Pandas-and-Python/raw/main/Pandas.zip
 

@@ -7,9 +7,6 @@ The Python Data Analysis Library (Pandas) is a an open source library providing 
 
 Users should prepare for this workshop by installing the Jupyter Notebook using Anaconda
 
-#### Software
-
-
 #### Data
 
 The data package for the workshop can be downloaded from
